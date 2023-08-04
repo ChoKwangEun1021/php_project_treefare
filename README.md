@@ -4,7 +4,7 @@
 
 ● Summary
 ---------------------------
-PHP, HTML, CSS, Javascript를 활용한 화장품 웹사이트 Treefare 제작
+PHP, HTML, CSS, Javascript를 활용한 가구 웹사이트 Treefare 제작
 
 ● Development Environment
 -------------
